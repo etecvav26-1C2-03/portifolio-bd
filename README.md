@@ -31,7 +31,7 @@
 |--------|-----|-----|-|-|
 | M1 | ATV-001 loja de brinquedos.DER | 21/05/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portifolio-bd/blob/main/1-Bimestre/DER/ex01-loja-brinquedo.png)|Nome do arquivo: ex01-loja-brinquedo.png |
 | M2 | ATV-002 engenharia.DER | 21/05/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portifolio-bd/blob/main/1-Bimestre/DER/ex02-engenharia.png)|Nome do arquivo: ex02-engenharia.png |
-| M3 | ATV-003 associação esportiva.DER | 21/05/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/eduardo-guilherme/portugol/Lista-02-Portugol)|Nome do arquivo: 1B-M1-Questionario.mde |
+| M3 | ATV-003 associação esportiva.DER | 21/05/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portifolio-bd/blob/main/1-Bimestre/DER/ex03-associacao-esportiva.png)|Nome do arquivo: ex03-associacao-esportiva.png |
 | M4 | ATV-004 cooperativa agrícola.DER | 21/05/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/felipe-gabriel/portugol/Lista-1-portugol)|Nome do arquivo: 1B-M1-Questionario.md |
 
 
