@@ -43,11 +43,10 @@
 
 | Menção | Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-|-|
-| M1 | ATV-CPP-001-lista-execicios.md | 07/05/2026|[Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/02-Bimestre/eduardo-guilherme/linguagem-cpp/Lista-01-cpp)|Eduardo e Guilherme |
-| M2 | ATV-CPP-002-lista-execicios.md | 11/06/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/02-Bimestre/eduardo-guilherme/linguagem-cpp/Lista-02-cpp)|Eduardo e Guilherme|
-| M3 | ATV-CPP-001-lista-execicios.md | 07/05/2026|[Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/02-Bimestre/felipe-gabriel/linguagem-cpp/lista-1-cpp)|Felipe e Gabriel |
-| M4 | ATV-CPP-002-lista-execicios.md | 11/06/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/02-Bimestre/felipe-gabriel/linguagem-cpp/lista-2-cpp)|Felipe e Gabriel|
-| M5 | Trabalho Final do bimestre | 18/06/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/02-Bimestre/trabalho-git)|Nome do arquivo: trabalho-git |
-| M6 | Análise do Github do grupo | 18/06/2026 | Abrir |N/A |
+| M1 | ATV-001 loja de brinquedos.MR | 11/06/2026|[Abrir]()|Nome do arquivo: ex01-loja-brinquedo.png |
+| M2 | ATV-002 engenharia.MR | 11/06/2026 | [Abrir]()|Nome do arquivo: ex02-engenharia.png |
+| M3 | ATV-003 associação esportiva.MR | 11/06/2026|[Abrir]()|Nome do arquivo: ex03-associacao-esportiva.png |
+| M4 | ATV-004 cooperativa agrícola.MR | 11/06/2026 | [Abrir]()|Nome do arquivo: ex04-cooperativa-agricola.png |
+
 
 ---
