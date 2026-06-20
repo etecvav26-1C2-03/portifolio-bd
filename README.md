@@ -46,7 +46,7 @@
 | M1 | ATV-001 loja de brinquedos.MR | 11/06/2026|[Abrir](https://github.com/etecvav26-1C2-03/portifolio-bd/blob/main/2-Bimestre/MR/ex01-loja-brinquedo.png)|Nome do arquivo: ex01-loja-brinquedo.png |
 | M2 | ATV-002 engenharia.MR | 11/06/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portifolio-bd/blob/main/2-Bimestre/MR/ex02-engenharia.png)|Nome do arquivo: ex02-engenharia.png |
 | M3 | ATV-003 associação esportiva.MR | 11/06/2026|[Abrir](https://github.com/etecvav26-1C2-03/portifolio-bd/blob/main/2-Bimestre/MR/ex03-associacao-esportiva.png)|Nome do arquivo: ex03-associacao-esportiva.png |
-| M4 | ATV-004 cooperativa agrícola.MR | 11/06/2026 | [Abrir]()|Nome do arquivo: ex04-cooperativa-agricola.png |
+| M4 | ATV-004 cooperativa agrícola.MR | 11/06/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portifolio-bd/blob/main/2-Bimestre/MR/ex04-cooperativa-agricola.png)|Nome do arquivo: ex04-cooperativa-agricola.png |
 
 
 ---
